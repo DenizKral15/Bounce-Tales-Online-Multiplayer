@@ -1,0 +1,6 @@
+{
+  "name": "Bounce Tales",
+  "description": "Bounce Tales Remastered featuring all 15 classic chapters, red, rock, and beach ball forms, authentic physics and color machines, and multiplayer co-op and race modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
